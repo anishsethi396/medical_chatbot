@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
